@@ -1,0 +1,1 @@
+cmd_/home/sarthi92/Documents/dd/G547/assign1/assign1.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sarthi92/Documents/dd/G547/assign1/assign1.ko /home/sarthi92/Documents/dd/G547/assign1/assign1.o /home/sarthi92/Documents/dd/G547/assign1/assign1.mod.o
