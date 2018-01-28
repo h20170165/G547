@@ -1,0 +1,1 @@
+cmd_/home/sarthi92/Documents/dd/G547/assign1_adc/adc.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/sarthi92/Documents/dd/G547/assign1_adc/adc.ko /home/sarthi92/Documents/dd/G547/assign1_adc/adc.o /home/sarthi92/Documents/dd/G547/assign1_adc/adc.mod.o
