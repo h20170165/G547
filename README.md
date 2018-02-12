@@ -35,7 +35,7 @@ $ sudo insmod prog.ko
 ```
 * **Compile User Code**: 
 ```shell
-$ make all
+$ make user
 ```
 * **Read Timer Value**: 
 ```shell
