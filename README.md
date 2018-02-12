@@ -44,9 +44,9 @@ $ sudo ./prog_user READ
 * **Set Timer Mode (Write to 0x43 port)**: 
 ```shell
 $ sudo ./prog_user SETMODE
-SETMODE $182
+SETMODE $0
 ```
-* **Set Timer Sleep (in milliseconds)**: 
+* **Set Timer Sleep (in milliseconds - for CH0_0x40 only)**: 
 ```shell
 $ sudo ./prog_user SLEEP
 SLEEP $3000
